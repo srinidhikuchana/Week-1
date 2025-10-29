@@ -1,4 +1,4 @@
-#EV Energy Forecasting System
+## EV Energy Forecasting System
 
 This project estimates the real-world energy consumption and driving range of an Electric Vehicle by analyzing key factors such as speed, weather, and road conditions.
 ## Features
